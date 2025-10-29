@@ -18,6 +18,8 @@
 - **C++**
 - **Python**
 - **ARM Assembly**
+- **JavaScript**
+- **React Native**
 
 ## Get in Touch
 📫 If you'd like to collaborate or just say hi, feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/awni-alquraini/)!
