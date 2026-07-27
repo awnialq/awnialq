@@ -9,7 +9,7 @@
 🚀 **Projects**:
 - 🥙 [**MealSense - Hack4Humanity Hackathon Project**](https://github.com/Victor-JB/Hack4Hum2025)
 - 🎮 [**NES Emulator - Personal Project**](https://github.com/theonelog/NES-Emulator)
-- 🧠 [**Learnimal - Personal Project**](https://github.com/awnialq/Learnimal)
+- 🧠 [**Learnminal - Personal Project**](https://github.com/awnialq/Learnminal)
 - 🏆 [**AWS x INRIX Hackathon Project - BLINE**](https://github.com/NeonD00m/BLINE)
 
 ## Skills
@@ -18,7 +18,7 @@
 - **C**
 - **C++**
 - **Python**
-- **ARM Assembly**
+- **ARM32 Assembly**
 - **JavaScript**
 - **React Native**
 
