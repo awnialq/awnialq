@@ -1,6 +1,7 @@
 # Hi, I'm Awni! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awni-alquraini/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green)](https://awnialq.github.io/portfolio/)
 
 ## About Me
 🎓 I'm a **Computer Science and Engineering Student** with a passion for **game design**, **systems programming**, **embedded applications**, and **hardware emulation**!
@@ -24,7 +25,3 @@
 
 ## Get in Touch
 📫 If you'd like to collaborate or just say hi, feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/awni-alquraini/)!
-
-## Stats
-
-[![awnialq's GitHub stats](https://github-readme-stats.vercel.app/api?username=awnialq&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
