@@ -1,6 +1,6 @@
 # Hi, I'm Awni! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awni-alquraini/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/awni-alquraini/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green)](https://awnialq.github.io/portfolio/)
 
 ## About Me
