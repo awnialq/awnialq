@@ -15,13 +15,11 @@
 
 ## Skills
 🛠️ **Programming languages**:
-- **Java**
 - **C**
 - **C++**
 - **Python**
 - **ARM32 Assembly**
-- **JavaScript**
-- **React Native**
+- **Java**
 
 ## Get in Touch
 📫 If you'd like to collaborate or just say hi, feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/awni-alquraini/)!
